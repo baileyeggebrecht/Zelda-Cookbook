@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zeldaCookbook</string>
+    <string name="heartyDurian">Hearty Durian</string>
+    <string name="apple">Apple</string>
+    <string name="heartyRadish">Hearty Radish</string>
+    <string name="mightyBananas">Mighty Bananas</string>
+    <string name="birdEgg">Bird Egg</string>
+    <string name="rawMeat">Raw Meat</string>
+    <string name="hylianShroom">Hylian Shroom</string>
+
+
+</resources>
